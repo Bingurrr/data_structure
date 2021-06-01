@@ -70,8 +70,8 @@ class Solution {
 		if(rt == null) return ret;
 		
 		ret += rt.key + ": " + rt.value + "\n";
-		ret += inorder(rt.left);
-		ret += inorder(rt.right);
+		ret += preorder(rt.left);
+		ret += preorder(rt.right);
 		
 		return ret;
 	}
