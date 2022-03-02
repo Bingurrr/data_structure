@@ -1,2 +1,2 @@
 # data_structure
-data structure for java
+- 내가 공부한 자료구조
