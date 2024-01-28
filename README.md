@@ -1,5 +1,4 @@
 # data_structure
-- 내가 공부한 자료구조
 
 
 ### [BST계열](https://github.com/Bingurrr/data_structure/blob/main/BST%EA%B3%84%EC%97%B4.md)
